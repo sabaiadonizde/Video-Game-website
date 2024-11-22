@@ -1,0 +1,35 @@
+header{
+  color: white;
+  background-color: rgb(43, 42, 42);
+  height: 80px;
+  width: 100%;
+  border: solid 2px black;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+.searchbar{
+  margin-top: 100px;
+  margin-left: 85%;
+}
+
+.Searchlebel{
+  color: white;
+  font-size: 20px;
+}
+
+#SearchBar{
+  background-color: rgb(43, 42, 42);
+}
+
+.ULTRAKILLCard{
+  border: none white 2px;
+  width: 400px;
+  height: 200px;
+  margin-left: 20px;
+}
+
+.ULTRAKILLImg{
+  height: inherit;
+}
