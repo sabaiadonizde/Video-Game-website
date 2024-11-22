@@ -3,10 +3,11 @@ header{
   background-color: rgb(43, 42, 42);
   height: 80px;
   width: 100%;
-  border: solid 2px black;
+  border-bottom: solid 1px black;
   position: fixed;
   top: 0px;
   left: 0px;
+  z-index: 100;
 }
 
 .searchbar{
@@ -24,12 +25,42 @@ header{
 }
 
 .ULTRAKILLCard{
+  position: relative;
   border: none white 2px;
   width: 400px;
-  height: 200px;
-  margin-left: 20px;
+  height: 250px;
+  left: 200px;
 }
 
 .ULTRAKILLImg{
   height: inherit;
+  width: 400px;
+  height: 250px;
+  cursor: pointer;
+}
+
+.ULTRAKILL-LEBEL-CARD{
+  position: relative;
+  border: none white 2px;
+  left: 200px;
+  display: inline;
+}
+
+#ultrakill-button{
+  width: 200px;
+  height: 50px;
+  font-size: 30px;
+  background-color: rgb(32, 32, 32);
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+  color: white;
+}
+
+#ultrakill-button:hover{
+  color: red;
+}
+
+#ultrakill-button:active{
+  border: solid 1px black;
 }
