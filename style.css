@@ -1,0 +1,139 @@
+
+
+header{
+  color: white;
+  background-color: rgb(43, 42, 42);
+  height: 80px;
+  width: 100%;
+  border-bottom: solid 1px black;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 100;
+}
+
+.searchbar{
+  margin-top: 100px;
+  margin-left: 85%;
+}
+
+.Searchlebel{
+  color: white;
+  font-size: 20px;
+}
+
+#SearchBar{
+  background-color: rgb(43, 42, 42);
+}
+
+.ULTRAKILLCard{
+  border: none white 2px;
+  margin-left: 200px;
+}
+
+.ULTRAKILLImg{
+  width: 400px;
+  height: 250px;
+  cursor: pointer;
+  transition: 0.5s;
+  margin-top: 50px;
+}
+
+.ULTRAKILLImg:hover{
+  width: 420px;
+  height: 260px;
+}
+
+
+.ULTRAKILL-LEBEL-CARD{
+  position: relative;
+  border: none white 2px;
+  left: 200px;
+  top: 10px;
+  display: inline;
+}
+
+#ultrakill-button{
+  width: 300px;
+  height: 50px;
+  font-size: 30px;
+  background-color: rgb(32, 32, 32);
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+  color: white;
+}
+
+#ultrakill-button:hover{
+  color: red;
+}
+
+#ultrakill-button:active{
+  border: solid 1px black;
+}
+
+.ULTRAKILL-DIV{
+  display: inline;
+}
+
+.Sekiro-Card{
+  position: relative;
+  border: none 2px white;
+  left: 750px;
+  bottom: 350px;
+  width: 50px;
+  height: 50px;
+}
+
+.Sekiro-Card-Lebel{
+  position: relative;
+  border: none 2px white;
+  left: 750px;
+  bottom: 100px;
+  display: inline;
+  width: 50px;
+  height: 50px;
+}
+
+.Sekiro-Main-Img{
+  height: inherit;
+  width: 400px;
+  height: 250px;
+  cursor: pointer;
+  transition: 0.5s;
+  margin-top: 50px;
+  transition: 0.5s;
+}
+
+.Sekiro-Main-Img:hover{
+  width: 420px;
+  height: 260px;
+}
+
+.Sekiro-Button{
+  position: relative;
+  width: 300px;
+  height: 50px;
+  font-size: 30px;
+  background-color: rgb(32, 32, 32);
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+  color: white;
+  transition: 0.5s;
+  display: inline;
+  left: -20px;
+  top: 10px;
+}
+
+.Sekiro-Button:hover{
+  color: red;
+}
+
+.Sekiro-Button:active{
+  border: solid 1px black;
+}
+
+.sekiro-DIV{
+  display: inline;
+}
