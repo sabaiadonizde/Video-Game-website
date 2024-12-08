@@ -137,3 +137,43 @@ header{
 .sekiro-DIV{
   display: inline;
 }
+
+.DS3-DIV{
+  width: 400px;
+  height: 250px;
+  border: white 2px none;
+  margin-left: 1300px;
+  margin-top: -400px;
+}
+
+.DarkSoulsIII-main-Img{
+  width: 400px;
+  height: 250px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.DarkSoulsIII-main-Img:hover{
+  width: 420px;
+  height: 260px;
+}
+
+.DS3-Button{
+  width: 350px;
+  height: 50px;
+  font-size: 30px;
+  background-color: rgb(32, 32, 32);
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+  color: white;
+}
+
+.DS3-Button:hover{
+  color: red;
+}
+
+.DS3-Button:active{
+    border: 1px black solid;
+}
+
