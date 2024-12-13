@@ -177,3 +177,121 @@ header{
     border: 1px black solid;
 }
 
+.Elden-Ring-DIV{
+  width: 400px;
+  height: 250px;
+  border: white 2px none;
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+.EldenRing-main-Img{
+  width: 400px;
+  height: 250px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.EldenRing-main-Img:hover{
+  width: 420px;
+  height: 260px;
+}
+
+.Elden-Ring-Button{
+  width: 350px;
+  height: 50px;
+  font-size: 30px;
+  background-color: rgb(32, 32, 32);
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+  color: white;
+}
+
+.Elden-Ring-Button:hover{
+  color: red;
+}
+
+.Elden-Ring-Button:active{
+  border: 1px black solid;
+}
+
+.Ghost-of-Tsushima-DIV{
+  width: 400px;
+  height: 250px;
+  border: white 2px none;
+  margin-left: 750px;
+  margin-top: -250px;
+}
+
+.GoT-Main-Img{
+  width: 400px;
+  height: 250px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.GoT-Main-Img:hover{
+  width: 420px;
+  height: 260px;
+}
+
+.GoT-Button{
+  width: 350px;
+  height: 50px;
+  font-size: 30px;
+  background-color: rgb(32, 32, 32);
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+  color: white;
+  transition: 0.5s;
+}
+
+.GoT-Button:hover{
+  color: red;
+}
+
+.GoT-Button:active{
+  border: black 1px solid;
+}
+
+.Red-Dead-Redemption-2-DIV{
+  width: 400px;
+  height: 250px;
+  border: white 2px none;
+  margin-left: 1300px;
+  margin-top: -250px;
+}
+
+.RDR2-Main-img{
+  width: 400px;
+  height: 250px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.RDR2-Main-img:hover{
+  width: 420px;
+  height: 260px;
+}
+
+.RDR2-Button{
+  width: 350px;
+  height: 50px;
+  font-size: 30px;
+  background-color: rgb(32, 32, 32);
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+  color: white;
+  transition: 0.5s;
+}
+
+.RDR2-Button:hover{
+  color: red;
+}
+
+.RDR2-Button:active{
+  border: black 1px solid;
+}
